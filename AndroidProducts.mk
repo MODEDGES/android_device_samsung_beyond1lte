@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_beyond1lte.mk
+    $(LOCAL_DIR)/spark_beyond1lte.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_beyond1lte-eng \
-    lineage_beyond1lte-user \
-    lineage_beyond1lte-userdebug
+    spark_beyond1lte-eng \
+    spark_beyond1lte-user \
+    spark_beyond1lte-userdebug
